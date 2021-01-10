@@ -1,1 +1,1 @@
-# student_management
+# mshipan.student_management
